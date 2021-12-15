@@ -1,6 +1,6 @@
-# Jekyll Serif Theme
+# weareS.A.D. Corp. (Solidarity Against Discrimination)
 
-Serif is a modern business theme for Jekyll. It contains multiple content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+weareS.A.D. Corporation is a foundation built of experience and empathy for those who suffer from mental, emotional, phyical, and social trauma. We are here to help you heal and rebuild a foundation securely for YOU!
 
 [Live Demo](https://jekyll-serif.netlify.app/) | 
 [Zerostatic Themes](https://www.zerostatic.io)
